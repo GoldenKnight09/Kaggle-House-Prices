@@ -7,5 +7,8 @@ This repository contains analysis of the Iowa House Price dataset from Kaggle. T
   - Part 1: Initial data ingestion & NA exploration and processing
   - Part 2: Continuous variable exploration
   - Part 3: Categorical variable exploration
-- Regression Analysis (TBD)
+- Feature Transformation, Normalization, & Regression Analysis (3 parts; Jupyter Notebooks using Python kernel)
+  - Part 1: Transformation & normalization of train and test data sets
+  - Part 2: Linear regression analysis
+  - Part 3: Second order with interaction terms regression analysis
 - Machine Learning Analysis (TBD)
