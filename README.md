@@ -11,4 +11,5 @@ This repository contains analysis of the Iowa House Price dataset from Kaggle. T
   - Part 1: Transformation & normalization of train and test data sets
   - Part 2: Linear regression analysis
   - Part 3: Second order with interaction terms regression analysis
-- Machine Learning Analysis (TBD)
+- Machine Learning Analysis (TBD; Jupyter Notebooks using Python kernel)
+  - Part 1: Random forest regression
