@@ -12,4 +12,4 @@ This repository contains analysis of the Iowa House Price dataset from Kaggle. T
   - Part 2: [Linear regression analysis](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Feature_Transformation_Normalization_%26_Regression_Analysis/Linear%20Regression%20Analysis.ipynb)
   - Part 3: [Second order with interaction terms regression analysis](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Feature_Transformation_Normalization_%26_Regression_Analysis/Second%20Order%20with%20Interaction%20Regression%20Analysis.ipynb)
 - Machine Learning Analysis (TBD; Jupyter Notebooks using Python kernel)
-  - Part 1: Random forest regression
+  - Part 1: [Random forest regression](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Machine_Learning_Analysis/Random%20Forest%20Regression.ipynb)
