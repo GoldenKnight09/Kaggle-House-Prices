@@ -4,12 +4,12 @@ This repository contains analysis of the Iowa House Price dataset from Kaggle. T
 
 ### Contents:
 - Exploratory Data Analysis (3 parts; Jupyter Notebooks using R kernel)
-  - Part 1: Initial data ingestion & NA exploration and processing
-  - Part 2: Continuous variable exploration
-  - Part 3: Categorical variable exploration
+  - Part 1: [Initial data ingestion & NA exploration and processing](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Exploratory_Data_Analysis_Notebooks/Exploratory%20Data%20Analysis%20-%20Part%201.ipynb)
+  - Part 2: [Continuous variable exploration](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Exploratory_Data_Analysis_Notebooks/Exploratory%20Data%20Analysis%20-%20Part%202.ipynb)
+  - Part 3: [Categorical variable exploration](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Exploratory_Data_Analysis_Notebooks/Exploratory%20Data%20Analysis%20-%20Part%203.ipynb)
 - Feature Transformation, Normalization, & Regression Analysis (3 parts; Jupyter Notebooks using Python kernel)
-  - Part 1: Transformation & normalization of train and test data sets
-  - Part 2: Linear regression analysis
-  - Part 3: Second order with interaction terms regression analysis
+  - Part 1: [Transformation & normalization of train and test data sets](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Feature_Transformation_Normalization_%26_Regression_Analysis/Feature%20Manip%2C%20Transform%2C%20Normalize.ipynb)
+  - Part 2: [Linear regression analysis](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Feature_Transformation_Normalization_%26_Regression_Analysis/Linear%20Regression%20Analysis.ipynb)
+  - Part 3: [Second order with interaction terms regression analysis](https://github.com/GoldenKnight09/Kaggle-House-Prices/blob/main/Feature_Transformation_Normalization_%26_Regression_Analysis/Second%20Order%20with%20Interaction%20Regression%20Analysis.ipynb)
 - Machine Learning Analysis (TBD; Jupyter Notebooks using Python kernel)
   - Part 1: Random forest regression
